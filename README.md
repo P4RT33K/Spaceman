@@ -1,4 +1,4 @@
-## This is my new mini-project, Spaceman under the series of [Experimantal](https://github.com/P4RT33K/Experimental)
+## This is my new mini-project, Spaceman under the series of [Experimental](https://github.com/P4RT33K/Experimental)
 ### I made this using HTML5 & CSS3
 
 This reminds me of Gravity, Hollywood movie.
